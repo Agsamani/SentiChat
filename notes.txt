@@ -1,0 +1,1 @@
+data should be in csv (date, time, person = 0 or 1, message)

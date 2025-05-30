@@ -1,0 +1,14 @@
+datetime,person,message
+2025-05-30 10:01:23,0,Hey! How’s it going?
+2025-05-30 10:01:45,0,You there?
+2025-05-30 10:02:10,1,"Hey! I'm good, just busy with work. You?"
+2025-05-30 10:02:45,0,Same here. Deadlines are killing me.
+2025-05-30 10:03:01,0,Can’t wait for the weekend.
+2025-05-30 10:03:40,1,"Haha, I feel that."
+2025-05-30 10:03:55,1,Any plans for it?
+2025-05-30 10:04:10,0,Might go hiking if the weather’s nice.
+2025-05-30 10:04:35,0,What about you?
+2025-05-30 10:05:12,1,Probably just rest. Been a long week.
+2025-05-30 10:05:40,1,"Oh, and maybe some gaming."
+2025-05-30 10:06:07,0,Nice! Let me know if you want to team up.
+2025-05-30 10:06:45,1,For sure. Around 9 PM?
